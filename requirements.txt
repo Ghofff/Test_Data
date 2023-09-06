@@ -1,0 +1,4 @@
+List of the major dependencies/libraries used in the project : 
+
+Flask: https://palletsprojects.com/p/flask/
+Matplotlib: https://matplotlib.org/
